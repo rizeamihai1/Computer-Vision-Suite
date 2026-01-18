@@ -42,12 +42,12 @@ An end-to-end vision pipeline that automates the scoring and adjudication of the
 
 ```text
 .
-├── object-detection-facial-recognition/   # SVM, YOLO, and Character ID
+├── HOG & SVM facial detector + YOLO/   # SVM, YOLO, and Character ID
 │   ├── figures/                           # Performance graphs (PR Curves)
 │   ├── svm_model/                         # Trained HOG+SVM descriptors
 │   └── README.md                          # Project documentation
 │
-└── qwirkle-vision-system/                 # Automated Game Referee
+└── Qwirkle Project/                 # Automated Game Referee
     ├── images/                            # Pipeline step visualizations
     ├── templates/                         # Piece shape templates
     └── README.md                          # Project documentation
