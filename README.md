@@ -11,7 +11,7 @@ This repository represents a comprehensive portfolio of Computer Vision solution
 
 The suite is divided into two major specialized systems:
 
-### 1. [Object Detection & Facial Recognition Suite](./object-detection-facial-recognition)
+### 1. [Scooby Doo Facial Detection with HOG + SVM and YOLO](./HOG%20%26%20SVM%20facial%20detector%20%2B%20YOLO)
 
 A dual-approach system developed to detect and identify characters from the Scooby-Doo series.
 
@@ -19,7 +19,7 @@ A dual-approach system developed to detect and identify characters from the Scoo
 - **Deep Learning:** Implements **YOLO** for real-time multi-class detection, achieving superior precision and recall.
 - **Key Features:** Custom data augmentation, Hard Negative Mining, and optimized Non-Maximal Suppression (NMS).
 
-### 2. [Automated Qwirkle Referee](./qwirkle-vision-system)
+### 2. [Automated Qwirkle Referee](./Qwirkle%20Project)
 
 An end-to-end vision pipeline that automates the scoring and adjudication of the Qwirkle board game.
 
