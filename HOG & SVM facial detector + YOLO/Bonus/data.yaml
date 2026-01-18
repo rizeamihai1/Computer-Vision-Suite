@@ -1,0 +1,8 @@
+# Calea către folderul care conține DIRECT images și labels
+path: "D:/Computer Vision/Tema 2 CAVA/Cod tema/data/Pentru YOLO/data"
+
+train: images # va căuta în path + /images
+val: images # va căuta în path + /images
+
+nc: 5
+names: ["shaggy", "fred", "velma", "daphne", "unknown"]
